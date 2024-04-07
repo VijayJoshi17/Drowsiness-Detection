@@ -40,7 +40,7 @@ pip install -r requirements.txt
 3. Run the main script to train the models and evaluate their performance:
 
 ```bash
-python drowsiness_detection.py
+python drowsiness_final.py
 ```
 
 4. Utilize the provided functions to check drowsiness on individual images or a folder of images.
